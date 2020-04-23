@@ -1,2 +1,2 @@
 # JSNotes
-It is including small demos and nots for Javascript.
+主要记录一些我在学习和工作过程中令我很困惑的问题和解决方法。
