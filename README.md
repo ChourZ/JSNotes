@@ -1,2 +1,2 @@
 # JSNotes
-It's notes for Javascript learning, including some demos.
+It is including small demos and nots for Javascript.
